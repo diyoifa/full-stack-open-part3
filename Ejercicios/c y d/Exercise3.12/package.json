@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "mongoose": "^7.6.2"
+  }
+}

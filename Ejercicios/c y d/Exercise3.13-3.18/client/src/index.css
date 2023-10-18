@@ -1,0 +1,34 @@
+h1 {
+    color: rgb(9, 0, 128);
+    font-style: italic;
+  }
+
+h2{
+    color:rgb(96, 131, 228);
+}
+  
+  .note {
+    color: grey;
+    padding-top: 3px;
+    font-size: 15px;
+  }
+  
+  .error {
+    color: rgb(255, 0, 0);
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .succes{
+    color: rgb(97, 194, 97);
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
